@@ -1,0 +1,38 @@
+body {
+    background-color: #1c1c1c;
+    color: white;
+    font-family: monospace;
+}
+.title {
+    font-size: 48px;
+    color: #00ff7f;
+    font-family: monospace;
+}
+
+.list-item{
+    margin-bottom: 24px;
+    font-size: 24px;
+    font-family: monospace;
+}
+
+input {
+    height: 32px;
+    background-color: transparent;
+    color: white;
+    border-color: #00ff7f;
+    border-radius: 8px;
+    font-size: 16px;
+    padding: 8px;
+    font-family: monospace;
+}
+
+.add-task-button {
+    font-size: 16px;
+    background-color: #00ff7f;
+    padding: 16px;
+    border-width: 0px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+}
